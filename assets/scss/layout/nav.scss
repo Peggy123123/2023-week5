@@ -1,0 +1,56 @@
+.nav{
+    min-width: 296px;
+    min-height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #F8F9FA;
+}
+
+.logo{
+    background-image: url(../images/logo-ANSWER.svg);
+    max-width: 151px;
+    height: 40px;
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-bottom: 42px;
+    display: block;
+}
+
+.nav-link{
+    margin-bottom: 21px;
+
+    span{
+        font-weight: 700; 
+    }
+
+    .active{
+        color: #198754;
+    }
+
+    span:hover{
+        color: #198754;
+    }
+
+}
+
+.nav-link.active::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 4px;
+    height: 32px;
+    border-left: 4px solid #198754;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.name{
+    margin-bottom: 4px;
+}

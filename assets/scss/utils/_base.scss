@@ -1,0 +1,39 @@
+
+.body{
+    font-family: "LATO" , "ROBOTO MONO" , "san-serif";
+}
+
+a{
+    color: #212529 !important;
+    text-decoration: none !important;
+}
+
+h1{
+    font-size: 1.5rem !important;
+    margin-right: 50px;
+}
+
+.list-group-item.active{
+    background-color: #F8F9FA;
+    border: 1px solid #CED4DA;
+}
+
+.mr-7{
+    margin-right: 7px;
+}
+
+.mr-25{
+    margin-right: 25px;
+}
+
+.mb-21{
+    margin-bottom: 21px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.btn-custom{
+    padding: 8px 33px;
+}

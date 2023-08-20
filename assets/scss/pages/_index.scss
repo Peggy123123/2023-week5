@@ -1,3 +1,61 @@
-.index-title {
-  font-size: 100px;
+.main{
+  margin-left: 296px;
+}
+
+.icons span:first-child{
+  margin-right: 24px;
+}
+
+.comment{
+  color: $gray-600;
+}
+
+.card-body {
+  img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 8px;
+    object-fit: cover;
+  }
+
+  h6{
+    margin-bottom: 4px;
+  }
+
+  .detail{
+    border-bottom: 1px solid #CED4DA;
+  }
+}
+
+.text-content{
+  font-size: 14px;
+}
+
+.file{
+  padding: 10px 16px 10px 12px;
+  max-width:204px ;
+  border: 1px solid #CED4DA;
+  background-color: #F8F9FA;
+  margin-top: 17px;
+}
+
+.list{
+  margin-top: 6px;
+}
+
+.menu-2{
+  margin-top: 44px;
+}
+
+.change-page{
+  margin-top: 6px;
+}
+
+.user-image{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 8px;
+  object-fit: cover;
 }

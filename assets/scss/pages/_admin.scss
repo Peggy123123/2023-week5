@@ -1,0 +1,77 @@
+.edit-modalbody {
+    h5{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    }
+    .btn{
+        padding: 16px 0;
+    }
+
+}
+
+.label{
+    margin-bottom: 4px;
+}
+.h-51{
+    height: 51px;
+}
+
+.border-botton{
+    border-bottom: 1px solid #CED4DA;
+}
+
+.select{
+    color: #6C757D;
+    padding: 16px;
+}
+
+.modal-footer .btn{
+    padding: 8px 32px;
+}
+.table{
+    margin-top: 51px;
+}
+
+.border-top{
+    border-top: 1px solid #CED4DA;
+}
+
+ul{
+    list-style: none;
+}
+
+.page-link{
+    padding: 4px;
+    border: 1px solid $success;
+}
+
+.page-number{
+    font-size: 16px;
+    padding: 6px 11.5px 7px 11.5px;
+}
+
+.input-color{
+    color: #212529;
+}
+
+.admin-image{
+    width: 141px;
+    height: 141px;
+    border-radius: 0;
+    margin-right: 24px;
+    object-fit: cover;
+}
+
+.admin-verified{
+    background-color: #F8F9FA;
+    padding: 4px 8px;
+    font-size: 14px;
+    color: #212529;
+    width: 64px;
+}
+
+.card-body{
+    border: 0;
+}
+
